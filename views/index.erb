@@ -1,0 +1,17 @@
+<p>
+  Howdy, all y'all. <br>
+  <% if @you_seen_me %>  Welcome back! <% end %>
+  <br>You're visitor <%= @visitors %>!
+  
+  <br>
+  <img src='cowboy.png'>
+</p>
+
+<p>Let's play the classic Cowboy game Finger Guns!</p>
+<p>Choose how many fingers to show, and you'll fire at the last person to play.</p>
+<p>If the total number of fingers is odd, you win!</p> 
+<form action="/fire_at_will" method="post">
+  How Many Fingers? 
+  <input id="fingers" type="text"   name="fingers">
+  <input id='kaboom'  type="submit" value="Kaboom">
+</form>
