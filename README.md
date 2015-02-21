@@ -1,6 +1,6 @@
 # Welcome, everyone.
 
-This is the code for the "Dynamic websites for Artists" workshop.
+This is the code for the "Dynamic websites for Artists" workshop, originally presented at the [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry.org).
 
 It's designed to go along with [these slides](http://www.slideshare.net/workergnome/dynamic-websites-for-artists).
 
